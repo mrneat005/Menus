@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="search"></string>
+    <string name="cast"></string>
+    <string name="red">Red Color</string>
+    <string name="blue">Blue Color</string>
+    <string name="exit">Exit</string>
+    <string name="green">Green Color</string>
+    <string name="setting">Setting</string>
+    <string name="copy">copy</string>
+    <string name="paste">paste</string>
+    <string name="delete">deleted</string>
+    <string name="contextMenu_txt">contextMenu</string>
+    <string name="contextMenu1_txt">ActionBar</string>
+    <string name="contextMenu2_txt">popup</string>
+    <string name="share"></string>
+    <string name="post"></string>
+</resources>
